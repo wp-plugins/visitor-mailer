@@ -1,7 +1,7 @@
 === Visitor Mailer ===
 Contributors: Conner Tolley
 Tags: stat, stats, track, tracking, plugin, track, analytic, analytics, wp, admin, visits, visitors, traffic, visitor, page, pages, post, posts, views, view, pageview, pageviews, hits, chart, dashboard, graph, mail, email
-Donate link: http://ctolley.com
+Donate link: http://ctolley.com/visitor-mailer
 Requires at least: 2.7
 Tested up to: 3.4
 Stable tag: 1.7
@@ -20,3 +20,8 @@ Receive email of visitors on a daily or weekly basis, NO additional plugins or a
 4. Go to 'Settings' menu and click on the Visitor Mailer link to adjust the plugin settings
 
 After an update, please deactivate and activate the plugin to make sure all database settings are up to date.
+
+== Screenshots ==
+
+1. This is the edit screen. Type the email you wish to receive the visitor counts. Choose daily or weekly emails. Check the Send Emails checkbox to start receiving the emails. You can uncheck the checkbox to stop receiving the emails.
+2. The Visitor Mailer link is found in the Settings section.
