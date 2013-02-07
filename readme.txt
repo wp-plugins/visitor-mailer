@@ -9,7 +9,7 @@ Stable tag: 1.7
 Receive email of visitors on a daily or weekly basis, NO additional plugins or add-ons are required.
 
 == Description ==
- A simple plugin that will send an email stating the number of unique visitors the site has had in a certain time period. 
+ A simple plugin that will send a email stating the number of unique visitors the site has had in a certain time period. 
 
 
 == Installation ==
